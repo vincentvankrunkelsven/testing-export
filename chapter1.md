@@ -112,3 +112,9 @@ test_error()
 
 success_msg("Good work!")
 ```
+
+--- type:VideoExercise lang:r xp:50 skills:1 key:8d24ede916
+## Test Export
+
+*** =projector_key
+f1e2ac7f6a2854199221b5ddaa0a6844
